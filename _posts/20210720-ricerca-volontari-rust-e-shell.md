@@ -18,8 +18,8 @@ Questo è uno sforzo volontario, e non puntiamo alla conquista del mondo (almeno
 
 Pronto/a a unirti a noi? Ecco come puoi iniziare:
 
-🌟 Dai un'occhiata al [Progetto Mush](link-del-progetto)  
-🐛 Esplora la nostra [issue "Come Posso Contribuire?"](link-all'issue) per trovare modi per contribuire
+🌟 Dai un'occhiata al [Progetto Mush]([link-del-progetto](https://github.com/javanile/mush))  
+🐛 Esplora la nostra [issue "Come Posso Contribuire?"]([link-all'issue](https://github.com/javanile/mush/issues/4)) per trovare modi per contribuire
 
 La tua passione e competenza possono contribuire a plasmare il futuro di Mush. Lavoriamo insieme per fare la differenza nel mondo DevOps e oltre! 🌍💫
 
