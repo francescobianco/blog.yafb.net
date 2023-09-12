@@ -1,3 +1,8 @@
+---
+layout: post
+title: "🚀 Cerchiamo Volontari per Migliorare il Progetto Mush! 🌟"
+---
+
 # 🚀 Cerchiamo Volontari per Migliorare il Progetto Mush! 🌟
 
 Ciao a tutti, fantastica community! 👋 Sono entusiasta di ricevervi qui, sul mio blog dove presento i miei contributi all'open-source. Non è cosa da tutti trovare persone che condividono la nostra passione per il mondo dell'open source. 🌐
