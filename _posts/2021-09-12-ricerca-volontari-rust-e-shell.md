@@ -3,8 +3,6 @@ layout: post
 title: "🚀 Cerchiamo Volontari per Migliorare il Progetto Mush! 🌟"
 ---
 
-# 🚀 Cerchiamo Volontari per Migliorare il Progetto Mush! 🌟
-
 Ciao a tutti, fantastica community! 👋 Sono entusiasta di ricevervi qui, sul mio blog dove presento i miei contributi all'open-source. Non è cosa da tutti trovare persone che condividono la nostra passione per il mondo dell'open source. 🌐
 
 Prima di tutto, voglio esprimere la mia gratitudine per il vostro interesse. Grazie! 🙏 Ora, entriamo nel cuore della questione. 🚀
@@ -23,8 +21,8 @@ Questo è uno sforzo volontario, e non puntiamo alla conquista del mondo (almeno
 
 Pronto/a a unirti a noi? Ecco come puoi iniziare:
 
-🌟 Dai un'occhiata al [Progetto Mush]([link-del-progetto](https://github.com/javanile/mush))  
-🐛 Esplora la nostra [issue "Come Posso Contribuire?"]([link-all'issue](https://github.com/javanile/mush/issues/4)) per trovare modi per contribuire
+🌟 Dai un'occhiata al [Progetto Mush](https://github.com/javanile/mush)  
+🐛 Esplora la nostra [issue "Come Posso Contribuire?"](https://github.com/javanile/mush/issues/4) per trovare modi per contribuire
 
 La tua passione e competenza possono contribuire a plasmare il futuro di Mush. Lavoriamo insieme per fare la differenza nel mondo DevOps e oltre! 🌍💫
 
