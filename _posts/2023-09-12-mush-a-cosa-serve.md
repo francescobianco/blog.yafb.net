@@ -1,4 +1,7 @@
-**Mush: La Rivoluzione per lo Scripting Shell! 🚀**
+---
+layout: post
+title: "Mush: La Rivoluzione per lo Scripting Shell! 🚀"
+---
 
 Se sei un appassionato di scripting Shell (come BASH o ZSH) e hai sempre sognato di semplificare il processo di impacchettamento e distribuzione dei tuoi progetti, allora **Mush** è il nuovo migliore amico che stavi cercando! 📦
 
